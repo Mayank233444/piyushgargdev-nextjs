@@ -132,7 +132,7 @@ const Contact = () => {
                   ></textarea>
                   <button
                     type="submit"
-                    className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600"
+                    className="bg-[#09C493]-500 text-white px-4 py-2 rounded-md hover:bg-[#09C493]-600"
                   >
                     Send Message
                   </button>
